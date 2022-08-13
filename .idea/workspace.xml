@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf2f9cf3-23f1-4981-904a-d93ce39e779e" name="Changes" comment="alcances de los bloques">
-      <change afterPath="$PROJECT_DIR$/src/OperadoresAritmeticos.java" afterDir="false" />
+    <list default="true" id="cf2f9cf3-23f1-4981-904a-d93ce39e779e" name="Changes" comment="Iperadores aritmeticoa">
+      <change afterPath="$PROJECT_DIR$/src/OperadoresRelacionales.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +38,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.AlcanceDeLasVariables">
+  <component name="RunManager" selected="Application.OperadoresRelacionales">
     <configuration name="AlcanceDeLasVariables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AlcanceDeLasVariables" />
       <module name="capitulo-2" />
@@ -48,6 +48,13 @@
     </configuration>
     <configuration name="Literales" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Literales" />
+      <module name="capitulo-2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OperadoresRelacionales" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OperadoresRelacionales" />
       <module name="capitulo-2" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -69,6 +76,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OperadoresRelacionales" />
         <item itemvalue="Application.AlcanceDeLasVariables" />
         <item itemvalue="Application.Literales" />
         <item itemvalue="Application.TipoDeDatosPrimitivos" />
@@ -120,7 +128,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660408863671</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Iperadores aritmeticoa">
+      <created>1660409867133</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1660409867133</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -140,6 +155,7 @@
     <MESSAGE value="agregue boolean" />
     <MESSAGE value="literales y variables" />
     <MESSAGE value="alcances de los bloques" />
-    <option name="LAST_COMMIT_MESSAGE" value="alcances de los bloques" />
+    <MESSAGE value="Iperadores aritmeticoa" />
+    <option name="LAST_COMMIT_MESSAGE" value="Iperadores aritmeticoa" />
   </component>
 </project>
