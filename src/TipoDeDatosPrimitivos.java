@@ -15,5 +15,8 @@ public class TipoDeDatosPrimitivos {
         //char esta basado en ascii por eso se puede realizar operaciones matematicas por ejemplo:
         char b = (char) (a + 1);
         System.out.println("para formar be sume el balor de a + 1 dando como resultado "+b);
+
+        boolean booleanVariable = true;
+
     }
 }
