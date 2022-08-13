@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf2f9cf3-23f1-4981-904a-d93ce39e779e" name="Changes" comment="agregue boolean">
-      <change afterPath="$PROJECT_DIR$/src/Literales.java" afterDir="false" />
+    <list default="true" id="cf2f9cf3-23f1-4981-904a-d93ce39e779e" name="Changes" comment="literales y variables">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AlcanceDeLasVariables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AlcanceDeLasVariables.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +38,14 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Literales">
+  <component name="RunManager" selected="Application.AlcanceDeLasVariables">
+    <configuration name="AlcanceDeLasVariables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AlcanceDeLasVariables" />
+      <module name="capitulo-2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Literales" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Literales" />
       <module name="capitulo-2" />
@@ -62,6 +69,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AlcanceDeLasVariables" />
         <item itemvalue="Application.Literales" />
         <item itemvalue="Application.TipoDeDatosPrimitivos" />
         <item itemvalue="Application.Variables" />
@@ -98,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660406653798</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="literales y variables">
+      <created>1660408120740</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1660408120740</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -116,6 +131,7 @@
     <MESSAGE value="ejemplos de variables" />
     <MESSAGE value="otros tipos de variables" />
     <MESSAGE value="agregue boolean" />
-    <option name="LAST_COMMIT_MESSAGE" value="agregue boolean" />
+    <MESSAGE value="literales y variables" />
+    <option name="LAST_COMMIT_MESSAGE" value="literales y variables" />
   </component>
 </project>
