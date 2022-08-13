@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf2f9cf3-23f1-4981-904a-d93ce39e779e" name="Changes" comment="">
+    <list default="true" id="cf2f9cf3-23f1-4981-904a-d93ce39e779e" name="Changes" comment="ejemplos de variables">
+      <change afterPath="$PROJECT_DIR$/src/TipoDeDatosPrimitivos.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Variables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Variables.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +38,14 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.TipoDeDatosPrimitivos">
+    <configuration name="TipoDeDatosPrimitivos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TipoDeDatosPrimitivos" />
+      <module name="capitulo-2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Variables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Variables" />
       <module name="capitulo-2" />
@@ -48,6 +55,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TipoDeDatosPrimitivos" />
         <item itemvalue="Application.Variables" />
       </list>
     </recent_temporary>
@@ -61,6 +69,14 @@
       <option name="presentableId" value="Default" />
       <updated>1660402762357</updated>
     </task>
+    <task id="LOCAL-00001" summary="ejemplos de variables">
+      <created>1660404208825</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1660404208825</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -73,5 +89,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ejemplos de variables" />
+    <option name="LAST_COMMIT_MESSAGE" value="ejemplos de variables" />
   </component>
 </project>
